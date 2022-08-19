@@ -5,11 +5,11 @@ supply of optimism and curiosity.</h2>
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 Recent Project 1 [Created Boat Clone Website](https://github.com/sudiptadip/sudipta-boat-lush-lace-9782.git)
+- 🔭 Recent Project 1 [Created Boat Clone Website](https://dapper-melomakarona-2fdcba.netlify.app)
 
-- 🔭 Recent Project 3 [Created Cricbuzz Clone Website](https://github.com/VijaySingh8650/cricbuzz.git)
+- 🔭 Recent Project 3 [Created Cricbuzz Clone Website](https://luxury-douhua-2f73cb.netlify.app/live.html)
 
-- 🔭 Recent Project 3 [Created Bluefly Clone Website](https://github.com/abbas5152/Project-Blueflyclone.git)
+- 🔭 Recent Project 3 [Created Bluefly Clone Website](https://effervescent-moxie-7cbfe5.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://elaborate-bonbon-8f9c28.netlify.app/](https://elaborate-bonbon-8f9c28.netlify.app/)
 
