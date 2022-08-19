@@ -1,6 +1,7 @@
-<h2 align="center">Hi 👋, I'm Sudipta Bhattacharjee</h2>
+<h2 align="center"> Hi 👋, I'm Sudipta Bhattacharjee, An aspiring full-stack developer with a passion for learning with an endless
+supply of optimism and curiosity.</h2>
 <p>
-dhfsdhjfdjksahfjhdsjkhfjjksdhjksdhjkl
+
 </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
