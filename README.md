@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudipta Bhattacharjee</h1>
+<h4 align="center">Hi 👋, I'm Sudipta Bhattacharjee</h4>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Recent Project 1 [Created Boat Clone Website](https://github.com/sudiptadip/sudipta-boat-lush-lace-9782.git)
