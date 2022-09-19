@@ -11,7 +11,7 @@ supply of optimism and curiosity.</h2>
 
 - 🔭 Recent Project 3 [Created Bluefly Clone Website](https://effervescent-moxie-7cbfe5.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://elaborate-bonbon-8f9c28.netlify.app/](https://elaborate-bonbon-8f9c28.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-2-o-lemon.vercel.app/)
 
 - 📫 How to reach me **sudiptabhattacharjee000@gmail.com**
 
