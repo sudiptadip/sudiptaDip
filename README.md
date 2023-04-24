@@ -3,7 +3,7 @@
   <h1 align="center">:octocat: Hello, I'm Sudipta <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1>
   <h2 align="center">An aspiring full-stack web developer :computer:</h2>
   
-  <p align="center">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃 <a href='sudiptadip.github.io/' > Portfolio </a> </p>
+  <p align="center">I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃 </p>
   
   <h3>:handshake: Connect with me </h3>
   <a href="https://www.linkedin.com/in/">
